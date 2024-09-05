@@ -1,0 +1,461 @@
+,Hotel_name,Location,Price,Discount,Rating
+0,Capital O 80951 Hotel Radisson Suite,"India, Mumbai",2819,65% off,104
+1,OYO SilverKey Hotel Manas Residency,"Chembur East, Mumbai",2702,65% off,410
+2,OYO Hotel Airport Metro Near Chhatrapati Shivaji International Airport,"Andheri East, Mumbai",2289,64% off,879
+3,Collection O Hotel Kiwi International Near Chhatrapati Shivaji International Airport,"Andheri East, Mumbai",2094,66% off,75
+4,OYO Druv's Taj Palace Near Chhatrapati Shivaji International Airport,"Near Asalpha Metro Station, Dhumai Estate, Mumbai",2656,65% off,686
+5,Collection O Collection O Hotel Jayshree Domestic Airport,"Vile Parle East, Mumbai",3127,65% off,588
+6,OYO Hotel Blue Executive Near Chhatrapati Shivaji International Airport,"On main street, Near Saki Vihar complex, Sakinaka,Mumbai",2772,65% off,1875
+7,OYO Blue Pearl Residency Near Chhatrapati Shivaji International Airport,"On main street, Near Asalpha Metro Station, Ghatkopar, Mumbai",1921,65% off,995
+8,OYO Hotel Blue Sapphire Residency Near Chhatrapati Shivaji International Airport,"Near The Crescent Business Park, Sakinaka, Mumbai",2220,65% off,1144
+9,OYO Hotel Blue Sea Near Chhatrapati Shivaji International Airport,"On main street, Near Asalpha Metro Station, Ghatkopar, Mumbai",1921,65% off,2051
+10,Super OYO Hotel Divine Residency Near Phoenix Marketcity,"Near Chirag Nagar Police Station, LBS Marg, Mumbai",4069,65% off,644
+11,Capital O Hotel Adore Palace,"Sakinaka Jharimari Link Road, Mumbai",2092,66% off,34
+12,OYO Hotel Greenforest Near Airport Road Metro Station,"Near Axis Bank, Customs Colony, Mumbai",2247,67% off,664
+13,Capital O Hotel Pearl Near US Embassy,"Near Wajan Kata Bus Stop, Indira Nagar, Mumbai",2896,65% off,119
+14,OYO Anjali Hotel Mumbai,"Near Kanti Nagar, Andheri East, Mumbai",2535,67% off,477
+15,OYO Rana Residency Near Western Express Highway Metro Station,"Tolany Naka, Sher-e-Punjab Colony, Mumbai",1916,67% off,589
+16,Flagship The Mumbai Inn Near Chhatrapati Shivaji International Airport,"The Mumbai Inn 90 Feet Road Next To Peninsula Near Tilak Nagar Gate Sakinaka Mumbai, Mumbai",1863,67% off,470
+17,OYO Royal Inn Near Versova Beach,"Near Jankidevi Public School Road, Varsova, Mumbai",2740,67% off,465
+18,Capital O Hotel Zaid International NEAR L&T Sakinaka & IIT POWAI,"Near Huntsman Building, Marol, Mumbai",3273,65% off,711
+19,OYO Flagship Om Residency Near Airport Road Metro Station,"Near Ganesh nagar, Marol, Mumbai",2530,67% off,16
+20,SPOT ON Yatra Inn Near Lalbagh Botanical Garden,"Lalbagh, Bangalore",1040,64% off,2617
+21,OYO Townhouse 180 Jayanagar ,"Near Sagar Hospital, Tilak Nagar, Bangalore",1828,67% off,3524
+22,Super OYO Townhouse OAK Spruce Hotels A2 Indiranagar,"India, Bangalore",1423,75% off,253
+23,Super OYO Collection O Sabharwal Residency Near Lalbagh Botanical Garden,"Opposite Shanthinagar, Bangalore",1410,65% off,429
+24,OYO Townhouse Chic 364 Richmond Road Near Cubbon Park,"Near Baldwin Women College, Richmond Town, Bengaluru",2082,65% off,1457
+25,OYO Hotel Townhall,"Near Dhanlakshmi Bank, JC Road, Bangalore",1070,65% off,1144
+26,Collection O Hotel Hemadri Residency,"Opp Saraswati Kalyana Mantapa, Bangalore",872,67% off,74
+27,Super OYO Capital O Boulevard Elite Madiwala Near Ragigudda Sri Prasanna Anjanayeswamy Temple,"B T M Layout, Bangalore",1365,66% off,2664
+28,OYO Sai Ram Residency,"Cubbonpet Main Road, Bangalore",1092,67% off,207
+29,Super OYO  Design Oyo Townhouse OAK Clove Boutique Hotel Rajaji Nagar,"4th Block, Rajaji Nagar, Bangalore",3053,65% off,1360
+30,SPOT ON Hotel Relax Inn Near Banashankari Metro Station,"Banashankari 3rd Stage, Bangalore",645,77% off,69
+31,Super OYO Townhouse 385 Navya International Ramamurthy Nagar Near Phoenix Marketcity,"Near Rammamurthynagar Police Station, Bangalore",1274,67% off,2655
+32,OYO Sree Balaji Residency,"Agrahara Dasarahalli, Rajaji Nagar, Bangalore",907,67% off,360
+33,Super OYO Townhouse 238 Tierra Woods Near Halasuru Metro Station,"Halasuru, Bangalore",2276,65% off,1675
+34,Capital O Champion Lotus Near Mantri Square Mall,"Near IIFT, Vijayanagar, Bangalore",1339,65% off,1342
+35,Capital O Premium Hotel Victoria Heights Near Sri Someshwara Swami Temple,"Near St.Philomena's Hospital, Xavier Layout, Bangalore",1508,67% off,957
+36,Townhouse OAK SRK White Inn Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Koramangala, Bangalore",1427,65% off,1603
+37,OYO Hotel Silver House Near Mantri Square Mall,"Arghar Dasrahalli Near Madhu Hospital Opp Maharaja Tent House Reliance Smart Building Magadi Main Road, Bangalore",844,65% off,494
+38,Varcity Emerald Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Near KEB Colony, BTM Layout 1, Bangalore",879,65% off,1965
+39,Collection O Hotel Palm Tree,"Near Halasuru Metro Station, Ulsoor, Bangalore",2566,65% off,1271
+40,Super OYO Townhouse 385 Navya International Ramamurthy Nagar Near Phoenix Marketcity,"Near Rammamurthynagar Police Station, Bangalore",1274,67% off,2655
+41,Collection O Hotel Tiara Near Christ university,"Tavarekere Main Rd, Bangalore",1175,67% off,644
+42,Townhouse OAK SRK White Inn Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Koramangala, Bangalore",1427,65% off,1603
+43,OYO Sai Ram Residency,"Cubbonpet Main Road, Bangalore",1092,67% off,207
+44,Super OYO Nar Comforts Near Majestic & near KSR Railway station,"NAR Comforts,13, G.K temple street, opp. Vijayalaxmi theater, Chickpet, Bangalore",1338,64% off,1682
+45,Flagship Hotel Royal Comfort Near Cubbon Park,"Gandhinagar, Bangalore",1357,65% off,60
+46,Super OYO Capital O Choice Regal Suites Near Ragigudda Sri Prasanna Anjanayeswamy Temple,"Centrally Located, Near Sagar Hospital, Hombegowda Nagar, Bangalore",1753,65% off,1337
+47,Capital O Champion Lotus Near Mantri Square Mall,"Near IIFT, Vijayanagar, Bangalore",1339,65% off,1342
+48,OYO Hotel Blue Inn,"Near Bilal masjid, Gurappanapalya, Bangalore",1351,67% off,1393
+49,OYO Hotel Silver House Near Mantri Square Mall,"Arghar Dasrahalli Near Madhu Hospital Opp Maharaja Tent House Reliance Smart Building Magadi Main Road, Bangalore",844,65% off,494
+50,Super OYO Flagship Vsv Avenue Hennur Near Sri Amruth Chithra Mandira," landmark Krishna Medical Store) Oposite Krishna Leela Grand Hotel, Bangalore",1264,65% off,299
+51,Super OYO  Design Oyo Townhouse OAK Clove Boutique Hotel Rajaji Nagar,"4th Block, Rajaji Nagar, Bangalore",3053,65% off,1360
+52,Collection O Hotel Palm Tree,"Near Halasuru Metro Station, Ulsoor, Bangalore",2566,65% off,1271
+53,OYO Townhouse 76427 Hotel Skyline Near Banashankari Metro Station,"B S K 2nd Stage, Bangalore",1406,65% off,352
+54,OYO Flagship HOTEL SKYSPACE Near Hare Krishna Hill,"Yeswantpur Near Railway Station, Bangalore",1140,65% off,358
+55,SPOT ON 810480 Canton Lodging And Boarding,"Karnataka, Bangalore",872,67% off,17
+56,Collection O Onyx International Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Karnatakanull, Bangalore",1334,67% off,332
+57,OYO Mn Residency Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Madiwala,  South Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, - 560034, India Bangalore.",1257,67% off,1061
+58,OYO Home Leva Homes Near Baiyappanahalli Metro Station,"Mahadevapura Zone, Bangalore",1236,65% off,1013
+59,Super OYO Capital O Chetana Inn,"Centrally Located, Near Shanti Niketan School, Kodigehalli, Bangalore",1352,64% off,1549
+60,Super OYO Capital O Choice Regal Suites Near Ragigudda Sri Prasanna Anjanayeswamy Temple,"Centrally Located, Near Sagar Hospital, Hombegowda Nagar, Bangalore",1753,65% off,1337
+61,Super OYO Capital O Blooms Stay Inn Near Snow City,"Bangalore Urban, Bangalore",2063,65% off,663
+62,Super OYO Townhouse 273 Hosur Main Road Bommanahalli Near Gopalan Innovation Mall,"Near krishna Theature Bommanahalli, Hosur main road, Bangalore",2302,65% off,1983
+63,OYO Nra Residency Near Rajarajeshwari Nagar Metro Station,"Rajarajeshwari Nagar, Bangalore",759,68% off,416
+64,Super OYO Flagship Vsv Avenue Hennur Near Sri Amruth Chithra Mandira," landmark Krishna Medical Store) Oposite Krishna Leela Grand Hotel, Bangalore",1264,65% off,299
+65,Super OYO Capital O SS Suites Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,Above Vishal Mega mart,1513,67% off,1488
+66,Collection O Nandi Comforts,"Yeshwantpur, Bangalore",872,70% off,52
+67,Flagship Hotel Royal Comfort Near Cubbon Park,"Gandhinagar, Bangalore",1357,65% off,60
+68,Capital O Hotel Shanti Nivas Near Hare Krishna Hill,"Near Yeshwanthpur , Sri Raghavendra Layout, Bangalore",1159,65% off,807
+69,Capital O Prime Residency,"Near Perseverance HBR, Saint Thomas Town, Bangalore",1339,65% off,795
+70,Capital O Safari Rooms Near Snow City,"India Bangalore Karnatakaindia, Bangalore",1316,68% off,160
+71,Super OYO Capital O Chetana Clove,"Near Shanti Niketan School, Maruthinagar, Bangalore",1397,65% off,1653
+72,Super OYO Collection O 85404 Valleyton Park,"Near Manyata Tech Park,HBR Layout,Outer Ring Road,Bangalore",1261,68% off,593
+73,OYO Townhouse 76427 Hotel Skyline Near Banashankari Metro Station,"B S K 2nd Stage, Bangalore",1406,65% off,352
+74,OYO Flagship HOTEL SKYSPACE Near Hare Krishna Hill,"Yeswantpur Near Railway Station, Bangalore",1140,65% off,358
+75,SPOT ON Janapriya Lodge Near Hare Krishna Hill,"Bangalore Urban, Bangalore",781,67% off,372
+76,Santa Maria Near Indiranagar Metro Station,"Jeevan Bhima Nagar, Bangalore",1384,65% off,707
+77,Super OYO Townhouse 149 Siri Residency,"Bhuvaneswari Nagar, Bangalore",1716,64% off,887
+78,Super OYO Capital O High end Withinn Hotel Near Hare Krishna Hill,"Near NIAS, Mathikere Extension, Bangalore",1873,65% off,993
+79,Collection O Royal Elevar,"Dasarahalli, Bangalore",1018,65% off,630
+80,OYO Mn Residency Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Madiwala,  South Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka, - 560034, India Bangalore.",1257,67% off,1061
+81,OYO The Royal International Hotel,"Near Robert Bosch Company, Mangammanapalya, Bangalore",1140,65% off,822
+82,SPOT ON 76191 Sahara Lodge,"Yeshwanthapura, Bangalore",670,68% off,353
+83,OYO Hotel Golden Arch Near Palace Ground,"Near Vijayanagar police station, MC Layout, Bangalore",1077,67% off,202
+84,Collection O Onyx International Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Karnatakanull, Bangalore",1334,67% off,332
+85,Collection O Hotel Supreme Suites Near Sri Amruth Chithra Mandira,"14/15 14 And 15 L V Complex Munireddy Layout Horamavu Banaswadi, Bangalore",1023,67% off,126
+86,Collection O Hotel Status Executive Room's,"Near Old Airport Road, Bangalore",1344,69% off,39
+87,Super OYO Collection O Ctc Gardenia Residency Near Lalbagh Botanical Garden,"Opp Urvashi Theatre, Bangalore",1921,65% off,318
+88,SPOT ON Srinivasa Boarding And Lodging Near Vijayanagar Metro Station,"Near N R Colony, Sajjepalya, Bangalore",670,67% off,432
+89,OYO Flagship 37297 N R Deluxe,"Near Prashant Hospital, Bangalore",649,85% off,59
+90,Capital O N R Comforts Near Nexus Mall Koramangala,"Koramangala, Bangalore",1095,64% off,178
+91,Capital O Royal Manyata,"Gate Number 4, Bangalore",1194,65% off,854
+92,Super OYO Townhouse 490 Indiranagar Extn,"Bangalore, Bangalore",1473,67% off,923
+93,Collection O Sln Suites,"Behind Baptist Hospital, Hebbal",1670,65% off,244
+94,Capital O Elite Stay Jp Nagar Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"6th Phase, Bangalore",1452,65% off,926
+95,Flagship Sai Vishram,"26/1 sheshadri Road  Anandrao Circle Gandhi Nagar, Bangalore",1061,65% off,38
+96,Super OYO Flagship Blooms Residency Near Baiyappanahalli Metro Station,"Bangalore East, Bangalore",1800,65% off,750
+97,OYO Royal Grand Residency Near Lalbagh Botanical Garden,"Bangalore Karnataka, Bangalore",1164,64% off,586
+98,OYO Flagship Varcity Plaza Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Near Cross Road, Maruti Nagar, Bangalore",1272,75% off,588
+99,OYO 18544 Amm Residency,"Mavalli, Bengaluru",1191,67% off,2
+100,Townhouse 038 Global Wings Hotels Near Sri Amruth Chithra Mandira,"Kammanahalli, Bangalore",1517,65% off,675
+101,Flagship Gn Nelli Rooms Near CMR University,"Bengalore-43, Bangalore",1050,64% off,240
+102,Townhouse OAK Hotel Prime,"Near Karnataka Bank, Babusapalya Main Road, Bangalore",2061,65% off,917
+103,OYO Hotel Blue Inn,"Near Bilal masjid, Gurappanapalya, Bangalore",1351,67% off,1393
+104,OYO Hotel Fiesta Grand,"Near Mariyappa Road, Jayanagar Ward, Bangalore",1262,64% off,225
+105,Collection O Tierra Woods,"Bangalore , Bangalore",1628,65% off,102
+106,OYO Flagship 79381 DM Residency Near Goraguntepalya Metro Station,"Rajarajeshwari Nagar Zone, Bangalore",977,67% off,179
+107,OYO Flagship 811000 Atithi Comforts,"Yeshwantpur, Bangalore",981,67% off,6
+108,OYO Royal Inn Near Iskcon Temple Bangalore,"Near 14th Main Road, Rajaji Nagar, Bangalore",988,67% off,278
+109,OYO Flagship 810144 Sunder Nivas,"Yeshwantpur, Bangalore",911,67% off,28
+110,Super OYO Capital O King Suites -hennur Near D Mart,"East Zone, Bangalore",1293,65% off,164
+111,Super OYO Capital O Savi International Near Bengaluru Palace,"Near Mantri Square Mall, Sheshadripuram, Bangalore",2099,65% off,1044
+112,OYO Hotel Diva Residency Near Nayandahalli Metro Station,"Near Syndicate Bank, Gandhi Nagar, Banglore",1228,68% off,20
+113,OYO Home Exotic Stay Bsk 3rd Stage,"Katriguppe, Bangalore",1282,64% off,568
+114,Flagship Pride Inn,"14 Cross Hosur Main Road, Bangalore",1289,64% off,373
+115,OYO Hotel Turista,"Near Central Silk board, BTM Layout, Bangalore",910,67% off,1086
+116,Super OYO Flagship Majestic Near Lalbagh Botanical Garden,"Near Majestic Railway Station, Akkipete, Bangalore",1509,65% off,1158
+117,OYO Home Leva Homes Near Baiyappanahalli Metro Station,"Mahadevapura Zone, Bangalore",1236,65% off,1013
+118,Capital O Gn Suites Near OM SHAKTHI TEMPLE,"Near Sub Registrar Office, Banaswadi, Bangalore",1734,65% off,771
+119,OYO Townhouse 093 Ramamurthy Nagar Near Baiyappanahalli Metro Station,"Near Ramamurthy Nagar Signal, Bangalore,Karnataka",1901,65% off,769
+120,Collection O 812451 The Grand Budget Hotel,"Karnataka , Bangalore",1536,67% off,93
+121,Flagship My Own Nest Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Near Srinivasa Temple, Bangalore",1342,65% off,223
+122,OYO Flagship 5590 Ujwal Residency,"Near Indian Oil Petrol Bunk, Divanarapalya, Bangalore",1179,67% off,20
+123,OYO Flagship 810304 New Pavithra Paradise,"No 462 3rd Phase 3rd Block Havanur Circle Basaveshwaranagar Bangalore, Bangalore",1071,64% off,278
+124,OYO Sri Sai Guru Comforts,"Near Kodigihalli Gate, Byatarayanapura, Bangalore",1159,65% off,75
+125,Flagship Elite Stay Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Jp Nagar, Bangalore",1392,65% off,14
+126,SPOT ON 810681 Vasavi Residency,"Bangalor, Bangalore",725,70% off,27
+127,OYO Flagship 810484 Royal Galaxy Lodge,"05th road cross Iblur bus stop. opposite Colombia asia hospital.sarjapur outer ring road. , Bangalore",743,72% off,661
+128,Capital O 70991 Prime Square ,"Centrally Located, Near Kalyan Nagar Bus Stand, 1st stage, Bangalore",1377,65% off,231
+129,OYO Royal Residency Near Hare Krishna Hill,"Near Taj Yeshwantpur, M S K Nagar, Bangalore",1088,65% off,254
+130,OYO 8501 ABHIMAANI COMFORTS,Kanakpura main road metro pillar number 45 nearby Banashankari metro station JP Nagar,1403,65% off,271
+131,Flagship S M Residency Near Mysore Road Metro Station,"Nagarbhavi, Bangalore",1276,64% off,14
+132,Flagship Sree Nandanam Residency,"Bengaluru, Bangalore",1014,67% off,837
+133,OYO Townhouse 076 Hebbal,"Dasarahalli, Bangalore",1950,65% off,514
+134,Super OYO Exotica Hotels Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Near Jayadeva Flyover, BTM Layout, Bangalore",1876,64% off,126
+135,OYO Flagship V R Residency Near Sri Amruth Chithra Mandira,"Centrally Located, Near 4th block, HBR Layout, Bangalore",1398,65% off,96
+136,Collection O 62387 Emara Grand Hotel,"H S R Layout, Bangalore",2489,65% off,8
+137,OYO Flagship 80878H Century Gardens,"Bengaluru, Bangalore",1412,65% off,203
+138,Hotel Telehaus International Near Lalbagh Botanical Garden,"Near Karnataka Bank, Shanti Nagar, Bangalore",2099,65% off,99
+139,OYO Townhouse 078 DODDA BANASWADI,"Near Udupi Upachar, Lakshmamma Layout, Bangalore",2082,65% off,287
+140,Flagship Hotel Amster Inn,"Near Mysore RD. Metro Station, FCI Layout, Bangalore",1500,65% off,1
+141,Collection O 812391 Sri Skanda Inn,"Venugopal Reddy Layout, Bangalore",1384,67% off,4
+142,Collection O B Six Hotel,"Kalasipalyam Main Road, Bangalore",2392,65% off,159
+143,OYO Flagship 810923 Hotel Shiva International,"Bangalore, Bangalore",1286,68% off,13
+144,Collection O Fortune Rooms,"Karnataka , Bangalore",1538,65% off,14
+145,Collection O Ira International Boutique Hotel,"India, Bangalore",2211,65% off,7
+146,OYO Flagship 81138 Gm royals,"Karnataka, Bangalore",643,69% off,13
+147,Collection O Metro O Comforts,"JP Nagar Metro Station, JP Nagar, Bangalore",1566,65% off,23
+148,OYO Flagship 810805  My Own Nest II Ramamurthy Nagar,"Devki Apparao Layout, Bangalore",1442,67% off,90
+149,Palette - Hotel Metro View Inn,"India, Bangalore",2601,47% off,9
+150,OYO Flagship 69693 The Royal Park ,"Near OYE Amritsar, New Tippasandra, Banglore",2339,65% off,1
+151,OYO Flagship 44601 Cloud Stay,"Near Sai Baba Temple, Kudlu Gate, Bangalore",1773,65% off,417
+152,Collection O 809961 New Royal Serenity Inn,"India , Bangalore",1772,65% off,1248
+153,Super OYO Flagship Archana Inn Near Lalbagh Botanical Garden,"Near Minerva Circle, JC Road, Bangalore",1189,65% off,137
+154,Collection O Premium Eden Au Lac Near Sri Someshwara Swami Temple,"Near Indiranagar Police Station, Indiranagar, Bangalore",1953,64% off,200
+155,OYO Flagship 92604 Sp Residency Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Btm 2nd Stagenull, Bangalore",890,73% off,185
+156,OYO Flagship NR Residency Near Nexus Mall Koramangala,"Near Teacher's colony Park, Jakkasandra, Bangalore",1050,76% off,249
+157,OYO Flagship 7558 Galaxy Inn,"Shivaji Nagar, Bangalore",1781,65% off,63
+158,OYO Nr Royal Near Nexus Mall Koramangala,"Sector 6, HSR Layout Ward, Bommanahalli Zone, Bengaluru, Bangalore South, Bangalore Urban, Karnataka",1272,65% off,1273
+159,OYO Flagship 13043 SREE SAI SUITES,"Near SBI Bank, RT Nagar Main Road, Bangalore",1672,65% off,2372
+160,Super OYO Flagship Olivia Comforts Near Nexus Mall Koramangala,"Near Eat Street, Kormangala, Bangalore",2717,67% off,4151
+161,Super OYO Collection O Compact Green View Near Nexus Mall Koramangala,"Near Ejipura Bus stand, Ashwini Layout, Bangalore",598,71% off,1101
+162,Super OYO Flagship Varcity Phi Premium Pavilion Near Ragigudda Sri Prasanna Anjanayeswamy Temple,"B T M Layout, Bangalore",1361,64% off,1995
+163,Flagship White Fort Near Lalbagh Botanical Garden,"Dispensary Rd, Kalasipalya,Bangalore",572,68% off,1762
+164,Capital O Elegant Amethyst Business Hotel Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"5th Block, Jayanagar, Bangalore",576,72% off,1434
+165,Super OYO Hotel Subha Residency Near Cubbon Park,"Majestic, Bangalore",677,75% off,431
+166,Capital O Victorian Comforts Near Sri Someshwara Swami Temple,"Near Adams Creation, Victoria Layout, Bangalore",581,75% off,165
+167,Flagship Hotel Gurudev Residency Near Cubbon Park,"Gandhi Nagar, Bangalore",1519,65% off,1004
+168,SPOT ON Hotel Sri Thirumala Lodge,"Opp BHEL, Bangalore",960,67% off,888
+169,Collection O Naidu Palace Near Iskcon Temple Bangalore,"Near Dhobi Ghat junction, Rajajinagar, Bangalore",1066,67% off,103
+170,Super OYO Townhouse 258 Spruce Hotels Bellandur,"Bellandur, Bangalore",819,67% off,129
+171,Collection O 808132 Status Suites,"Bangalore , Bangalore",768,67% off,798
+172,OYO Exotic Stay Bg Road,"Bangalore Urban, Bangalore",699,80% off,2919
+173,SPOT ON A Class Suites Near Hare Krishna Hill,"Bangalore Urban, Bangalore",599,76% off,943
+174,OYO Varcity Park Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Near SV Hospitals, Madiwala, Bangalore",576,77% off,562
+175,Flagship Aayush Corporate Stays Near Nexus Mall Koramangala,"Near Maharaja Signal, Kormangala, Bangalore",576,67% off,709
+176,OYO Shree Mookambika Guest House Near Sri Someshwara Swami Temple,"Kormangla, Bangalore",549,72% off,1086
+177,OYO Corner Golf View Near Sri Someshwara Swami Temple,"Domlur, Bangalore",808,74% off,1320
+178,Home Shiva Shakthi Inn Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"J P Nagar, Bangalore",899,65% off,2881
+179,Super OYO Hotel Resida Elite Service Apartments Near Sri Someshwara Swami Temple,"Near Domlur Bridge, Indiranagar, Bangalore",1049,67% off,140
+180,Super OYO Townhouse 610 Derawal Nagar,"Near Vinayak Hoptiat, Gujranwala Town, Delhi",2011,65% off,3508
+181,OYO Shubh Guest House,"C1/64 Main Sarvice Road Soniya Vihar 3 Rd Pusta, Delhi",1002,65% off,337
+182,OYO Townhouse 868 Dream Connect Near TDI Mall,"Wz-3 Opp Pillor No 322 Moti Nagar Delhi, Delhi",1282,64% off,61
+183,OYO Blue Diamond Near Jahangirpuri Metro Station,"Opp. Metro Pillar No. 102, Near Sai Baba Mandir, Adarsh Nagar, Delhi",921,67% off,864
+184,Flagship Hotel Diamond Tree,"New Delhi, Delhi",1252,65% off,848
+185,OYO The Chill Palace Near Haiderpur Metro Station,"North West Delhi, Delhi",1552,67% off,4273
+186,Flagship The Mayur Hotel ,"Tri Nagar, Delhi",1441,67% off,170
+187,OYO Hotel Landmark Inn,Near Karol Bagh Metro Station,576,67% off,249
+188,Flagship Hotel Happy Moments,"Near Divine Hospital, Delhi",759,67% off,735
+189,Collection O Radisson Blue Hotel Nearby Khajuri chowk-Signature Bridge,"Bhajanpura, Delhi",643,69% off,427
+190,Flagship Kashish Residency Near Model Town Metro Station,"Ashok Vihar-3, Delhi",1048,67% off,180
+191,OYO Flagship 812491 Hotel Siddhartha Guest House,"Seelampur, Delhi",811,68% off,75
+192,OYO Hotel New Tech India,"Near Jhandewalan, Nai Walan, Delhi",845,67% off,23
+193,Flagship Sr Residency Near CCD,"Block B, Delhi",549,69% off,49
+194,OYO Home Hotel New Singh Near Adarsh Nagar Metro Station,"Near Metro Pillar No 103, Delhi",899,77% off,342
+195,OYO 81212 White House Residency Near Haiderpur Metro Station,"108,Street Number 3, Shalimar Bagh Village, New Delhi",839,67% off,168
+196,OYO Flagship 810701 Mayura Residency,"Maharam Mohalla, Delhi",966,67% off,2171
+197,OYO Townhouse 816 The Diamond Tree Near Dilshad Garden Metro Station,D-75 near dilshad garden metro station,576,73% off,1289
+198,OYO Hotel Prince Near Haiderpur Metro Station,"Haiderpur Village, Delhi",666,67% off,769
+199,Flagship Hotel Grow More Near Shiv Mandir,"East Babarpur, Delhi",951,67% off,610
+200,Super OYO Townhouse 057 Gujranwala Town Near Azadpur Metro Station,"Tehsil, Delhi",996,67% off,545
+201,OYO Hotel J Joy,"MAIN FAIZ ROAD  Above SBI BANK), KAROL BAGH",1321,70% off,1807
+202,OYO Hotel Sun City Near Gurudwara Shri Bangla Sahib,"Near Karol Bagh, Channa Market, Delhi",799,73% off,103
+203,OYO Sushma Ssadan,"Sawan Park Ashok Vihar Phase 3 Model Town Tehsil, Delhi",1384,67% off,15
+204,OYO Flagship 2064 Hotel The Spot,"New Delhi, Delhi",599,66% off,118
+205,OYO Hotel City Castle,"Near Karol Bagh, Nai Walan, Delhi",916,67% off,17
+206,Flagship Hotel S Inn,"Paharganj New Delhi, Delhi",575,72% off,11
+207,OYO Flagship 81012 S P Rooms,"Mahendra Park, Delhi",1768,65% off,148
+208,OYO Kochar Plaza Near Satyam Inox Patel Nagar,"Near Liberty Cinema, New Rohtak Rd, Delhi",1084,67% off,43
+209,OYO Flagship 810341 Hotel Royal Plaza,"wz 523/1 bali nagar extension, Delhi",1794,65% off,7
+210,Collection O 811864 Hotel Aura Stay,"Paharganj, Delhi",776,67% off,62
+211,Flagship Hotel Happiness Inn Near Tdi Mall,"Karampura, Delhi",1236,67% off,4
+212,OYO Flagship 810642 Hotel KD Homes,"wazirabad near book shop opposite mohalla clinic Delhi, Delhi",1115,67% off,36
+213,OYO Ms Residency,"Near to Aarash nagar metro station pillar no:-104, Delhi",1490,67% off,65
+214,OYO Flagship 35359 Hotel Victoria Dx,"Near New Delhi Railway Station, Delhi",851,67% off,17
+215,OYO 811030 Ocean Guest House,"Brij Puri, Delhi",1156,67% off,28
+216,OYO Flagship 81042 Step Inn International,"Delhinull, Delhi",1152,67% off,2
+217,Flagship Hotel Sun Shine,"Shakarpur Main Market, Delhi",1005,67% off,913
+218,OYO Flagship 811700 Hotel Iconiic Residency Inn,"Old Rajendra Nagar delhinull, Delhi",1156,67% off,325
+219,OYO Flagship 811671 Hotel Swagat Dx,"New Delhi, Delhi",910,67% off,310
+220,OYO 78699 Hotel Klick International,", Delhi",807,70% off,28
+221,Collection O Hotel Ambience Near Gurudwara Shri Bangla Sahib,"Near New Delhi Railway Station, Delhi",583,67% off,197
+222,OYO Hotel Delhi Delight Near Sarai Rohilla Railway station,"Near Sarai Rohilla Railway Station, Delhi",1996,64% off,102
+223,Flagship Hotel V K Stay,"Aarakashan Road  near Delhi Railway Station), Delhi",1360,65% off,1036
+224,OYO Kl Khari Near Satyam Inox Patel Nagar,"Industrial Area, Delhi",899,69% off,992
+225,OYO Shoolin Residency Near M2k Cinemas Rohini,"Near M2k Cinema, Delhi",770,66% off,3198
+226,Flagship Dream Inn Near Akshardham,"Chander Vihar Near Aggarwal Sweets East Delhi, Delhi",651,71% off,17
+227,OYO Townhouse 511 Prakash continental Near Netaji Subhash Place Metro Station,"Netaji Subash Palace, Delhi",1670,65% off,651
+228,OYO Hotel Sun Palace,"Karol Bagh, Delhi",1000,67% off,787
+229,OYO Townhouse 118 Gagan Vihar Near V3S Mall,"Near RG Stone hospital , Hargobind Enclave, Delhi",1004,67% off,10
+230,OYO Flagship 80769 Seven Heaven ,"B-54 Lawrence Road Industrial Area Near Lawrence Road, Delhi",1670,65% off,311
+231,Capital O Season Grand Near Pitampura metro station,Near Pitampura metro station,799,79% off,560
+232,OYO 74596 Dream Town Near V3S Mall,"Shahdara, Delhi",1444,67% off,389
+233,OYO Flagship 812357 Hotel Landmark Deluxe,"Karol Bagh, Delhi",2101,65% off,18
+234,Flagship King Stay Near Tdi Mall,"Block N, Delhi",1414,67% off,113
+235,Flagship Hotel BR International,"Paharganj, Delhi",581,67% off,31
+236,OYO Hotel Bramhaputra,"Centrally Located, Near New Delhi Railway Station, Delhi",599,74% off,171
+237,OYO Flagship 27928 Hotel Vintage ,"Near RK Ashram Metro station, Delhi",549,82% off,235
+238,Flagship Ram Bnb,"Faiz Road Karol Bagh New Delhi, Delhi",1029,67% off,606
+239,OYO Flagship 80289 Hotel Neha Inn Near Jama Masjid,"Paharganj  near Delhi Railway Station)null, Delhi",1628,65% off,16
+240,Flagship Hotel Cozzy Homes Stay Near Gurudwara Shri Bangla Sahib,"Raje Der Nagar, Delhi",770,66% off,98
+241,Flagship Rs Hotels Near M2k Cinemas Rohini,"Shiva Market, Delhi",910,67% off,757
+242,OYO Townhouse 1130 262 Kailash Enclave Near M2K Cinemas Rohini,"Harsh Vihar, Delhi",576,67% off,551
+243,OYO Flagship 66745 Le Orange,"8880-81, Gali Number 2, Multani Dhanda, Paharganj, New Delhi, Delhi - 110055",1345,65% off,918
+244,OYO Le Alfanso Near Jama Masjid,"Near New Delhi Railway Station, Delhi",599,74% off,2
+245,OYO Hotel Park View Near Adarsh Nagar Metro Station,"Near Adarsh nagar, Matmy Memar, Delhi",957,67% off,1343
+246,Flagship Green High Near Laxmi Nagar Metro Station,"NEAR FRUIT POWER, Laxmi Nagar Metro Station, Delhi",839,67% off,29
+247,OYO Townhouse 286 Near Kohat Enclave Metro Station ,"Near Pitampura Metro Station, Delhi",744,68% off,82
+248,OYO Flagship 69760 Hotel Anchal Deluxe,"Near New Delhi Railway Station, Delhi",731,70% off,722
+249,Collection O Ramji 7 Grand Near Tdi Mall,"Near Kirti Nagar Metro Station, Delhi",852,69% off,1020
+250,Collection O Metro View Ashok Vihar Near Shalimar Bagh Metro Station,"Pocket C 1, Delhi",1481,65% off,82
+251,OYO Flagship 81569 The Red Rose Inn,"India, Delhi",677,75% off,856
+252,OYO Hotel Grand Peepal,"Near Karol Bagh metro, WEA, Delhi",1005,67% off,6
+253,OYO Hotel J P Inn Near Satyam Inox Patel Nagar,"Near Patel Nagar Metro, Block 1, Delhi",1360,65% off,80
+254,OYO Flagship R K Residency Near Jhilmil Metro Station,"488/5a Mcd Primary School Dilshad Garden, Delhi",549,69% off,319
+255,Meet You There Shakarpur,"Shakarpur Laxmi Nagar Metro, Delhi",1767,65% off,395
+256,Hotel City Plaza,"Near Laxmi Nagar, Delhi",1360,65% off,757
+257,Flagship Hotel R.k Near Akshardham,"Near South Ganesh Nagar, Delhi",996,67% off,31
+258,Collection O Hotel Green Palace Near V3S Mall,"H.no.-a3 Block A Jagat Puri Red Light Near Sbi Bank Jagat Puri East Delhi, Delhi",595,68% off,15
+259,Super OYO 703579 Flagship Santosh Residency Near V3s Mall,"Vishwas Nagar, Delhi",1414,67% off,166
+260,OYO Hotel Park View Near Adarsh Nagar Metro Station,"Near Adarsh nagar, Matmy Memar, Delhi",1767,65% off,6
+261,OYO Flagship 80289 Hotel Neha Inn Near Jama Masjid,"Paharganj  near Delhi Railway Station)null, Delhi",731,70% off,4
+262,OYO Flagship 81012 S P Rooms,"Mahendra Park, Delhi",1360,65% off,4
+263,OYO Hotel Crown Continental Near Sarai Rohilla Railway Station,"11005, Delhi",800,67% off,53
+264,Hotel City Plaza,"Near Laxmi Nagar, Delhi",1257,65% off,65
+265,Collection O 811248 Hotel Crystal Stay,"old Arjun Nagar, Delhi",1705,65% off,38
+266,OYO 811030 Ocean Guest House,"Brij Puri, Delhi",996,67% off,262
+267,OYO 804648 Hotel SP Deluxe ,"Near Gurudwara Shri Bangla Sahib, New Delhi",1226,67% off,864
+268,Flagship Hansa Residency Near Akshardham,"Laxmi Nagar, Delhi",852,69% off,18
+269,Flagship Hotel Dp Palace Near Jama Masjid,"Delhi, Delhi",1449,59% off,12
+270,Flagship 18618 Ocean Blue Residency Near V3S Mall," A-14 Pridarshni Vihar Laxminagar, Delhi",1943,65% off,5
+271,OYO The Chill Palace Near Haiderpur Metro Station,"North West Delhi, Delhi",1314,67% off,141
+272,OYO Flagship 27928 Hotel Vintage ,"Near RK Ashram Metro station, Delhi",1481,65% off,16
+273,OYO Flagship 805147 Hotel Sona International Near Gurudwara Shri Bangla Sahib,"Paharganj  near Delhi Railway Station)null, Delhi",1360,65% off,33
+274,OYO Flagship 811430 Hotel Mayur Inn,"B-3 Near DA BLOCK SHALIMAR VILLAGE, Delhi",1334,65% off,3
+275,OYO Hotel Emporio Near Jama Masjid,"Near Shela Cinema, DB Gupta Road, Delhi",989,64% off,82
+276,OYO Flagship 66745 Le Orange,"8880-81, Gali Number 2, Multani Dhanda, Paharganj, New Delhi, Delhi - 110055",696,79% off,141
+277,Flagship Deva Guest House Near Johari Enclave Metro Station,"Ganga Enclave Delhi, Delhi",1360,65% off,65
+278,OYO Flagship 811181 Golden Key Inn,"plot no 341 Shalimar village opposite railway live, Delhi",2048,67% off,12
+279,OYO Flagship R K Residency Near Jhilmil Metro Station,"488/5a Mcd Primary School Dilshad Garden, Delhi",632,75% off,22
+280,OYO Hotel Emporio Near Jama Masjid,"Near Shela Cinema, DB Gupta Road, Delhi",909,67% off,125
+281,Flagship Hansa Residency Near Akshardham,"Laxmi Nagar, Delhi",2306,67% off,33
+282,OYO Flagship 805147 Hotel Sona International Near Gurudwara Shri Bangla Sahib,"Paharganj  near Delhi Railway Station)null, Delhi",2190,70% off,72
+283,OYO Flagship 83552 Anchal Guest House,"India, Delhi",2048,67% off,38
+284,Collection O 811806 Orange Saffron,"Shakurpurnull, Delhi",799,75% off,132
+285,OYO Hotel Town ,Near Karol bagh metro station,1470,69% off,191
+286,Flagship Deva Guest House Near Johari Enclave Metro Station,"Ganga Enclave Delhi, Delhi",576,80% off,263
+287,Flagship Hotel Hans Dx Near Jama Masjid,"Paharganj  near Delhi Railway Station), Delhi",1195,67% off,262
+288,Flagship Hotel Dp Palace Near Jama Masjid,"Delhi, Delhi",1130,67% off,6
+289,SPOT ON Shyam Palace Near Gurudwara Shri Bangla Sahib,"Near R K Ashram Metro Station, Pahar Ganj, Delhi",1817,65% off,9
+290,Capital O Hotel Sunberry,"New Delhi, Delhi",859,71% off,62
+291,OYO 80168 Green Villa,"Near KOSMOS Hospital, Anand Vihar, Delhi C-61 Above SBI Bank",1049,65% off,123
+292,Flagship 18618 Ocean Blue Residency Near V3S Mall," A-14 Pridarshni Vihar Laxminagar, Delhi",626,73% off,1
+293,OYO Flagship 80919 Hotel Vinayaka Inn Near Gurudwara Shri Bangla Sahib,", Delhi",1692,66% off,3577
+294,Flagship Hotel City Heart,"Paharganj , Delhi",949,64% off,138
+295,OYO TOWNHOUSE  R K Residency Near Mother dairy gate no. 2,"Flat No 3 Near Fair Deal South Ganesh Nagar, Delhi",1820,65% off,115
+296,Collection O Dayz Inn Deluxe Near Satyam Inox Patel Nagar,"B Block Lawrence Road Industrial Area Near Keshavpuram Fire Station Delhi 110035, Delhi",449,86% off,270
+297,OYO Flagship 80818 Hotel Metro Inn Near Gurudwara Shri Bangla Sahib,"Aram Bagh Paharganj Delhi, Delhi",1045,67% off,2846
+298,SPOT ON Hotel Silver Palace Dx,"Near RK ASHRAM METRO STATION, Pahar Ganj, Delhi",1008,67% off,72
+299,SPOT ON 812212 Country Residency,"Laxmi Nagar, Delhi",918,67% off,22
+300,Flagship Kashish Residency,"single storey, Delhi",953,67% off,352
+301,OYO Townhouse 738 Family In,"Raj Block Naveen Shahdara Delhi, Delhi",1130,64% off,1215
+302,Super OYO Collection O Shalimar Bagh Near Haiderpur Metro Station,"Shalimar Village, Delhi",1668,67% off,3
+303,Flagship Hotel Signature Village,"Near KD Campus, Gali No. 6A, Gopalpur Village",1793,64% off,2
+304,Flagship Good Will Near Haiderpur Metro Station,"Gobind Mohalla, Delhi",1142,67% off,2
+305,OYO Flagship 84596 Hotel North Campus,"Civil Lines Tehsilnull, Delhi",1788,65% off,1
+306,OYO Flagship 811530 Bed Box,"gali no 1 kamla nagar, Delhi",1232,67% off,34
+307,Collection O Model Town Metro View Near Model Town Metro Station,"Near Model Town Metro Station, Delhi",1262,64% off,7286
+308,OYO Flagship 79243 Hotel Greenwoods,"Paharganj, Delhi",1036,67% off,324
+309,OYO Flagship 811844 Yes Sir Guest House,"PAHARGANJ, Delhi",777,75% off,1945
+310,SPOT ON Jain House Near V3s Mall,"Near East Azad Nagar, Azadnagar, Delhi",1747,65% off,1925
+311,OYO Flagship 811980 Hotel Rainbow,"Block A kewal park extension opposite metro pillar number 78 Azadpur Delhi 110033, Delhi",688,72% off,1688
+312,Collection O 23641 Hotel Cozy Vibes Stay,"Near Inderlok Metro Station, Anandnagar, Delhi",627,73% off,5595
+313,OYO Flagship 81175 Hotel Moon Stay,"New Delhi, Delhi",909,67% off,1558
+314,Flagship Crown Town Guest House,"near by Mandoli Jail Back Side, Delhi",1614,65% off,990
+315,OYO 811874 Hotel Maharaja,"Address- Shop No : 30-32-34 Old Market Main Bus Stand Timarpur Delhi 110054.  Opposite DTC Bus Stand, Delhi",679,68% off,94
+316,OYO Flagship 812028 Brownie,"BS Colony Vishwas Nagar Delhi 110032, Delhi",984,67% off,5054
+317,SPOT ON 812286 Shivam Guest House ,"3 Katra baryan laal Kuan farash khana Chandni chowk, Delhi",1587,65% off,1555
+318,Flagship Mannat Residency Near Shiv Vihar Metro Station,"Near David School, Delhi",1912,64% off,3064
+319,OYO Flagship 811723 Hotel Sai Ram,"Azadpur, Delhi",1005,67% off,690
+320,Super OYO Townhouse 143 Hotel Royal Garden Near park Street Mullick bazar crossing,"Near Jameson Inn, Park St, Kolkata",1106,67% off,3237
+321,Flagship The Nest Inn Near Acropolis Mall,"Near Raj Market, Kolkata",2032,65% off,194
+322,Flagship Royal Plaza Near Acropolis Mall,"Near GST Bhawan, Ruby, Acropolis Mall",890,65% off,5158
+323,Collection O Hotel Hamza International Near Howrah Bridge,"Near College Street, MG Road, Kolkata",1086,67% off,1162
+324,Super OYO Townhouse 1050 Centre Point Inn Near Esplanade Metro Station,"Beside K C Das Sweet Esplanade Post Office, Kolkata",791,67% off,1684
+325,OYO Townhouse 229 Hotel Mannat International Near Science City Topsia,"Near Bypass Connector, Kolkata",1345,65% off,152
+326,Super OYO Collection O Ketan Regency Near Acropolis Mall,953 Purbachal Road adapt House Prince Park Kalikapur  in lane between Tata chroma showroom & Yamaha Moters Showroom,576,71% off,661
+327,Townhouse Oak Hotel Lake View Royal Near Science City,"East Topsia Road, Kolkata",1071,67% off,1732
+328,Flagship R A Homestay Near Acropolis Mall,"Nitai Nagar, Kolkata",990,67% off,2324
+329,Collection O 74257 Gokul Residency,"Near Emami City, Nagerbazar, Dum Dum, Kolkata",925,67% off,326
+330,Super OYO Collection O Hotel Green Leaf Near Acropolis Mall,"Kasba, Kolkata",696,76% off,1652
+331,Super OYO Townhouse 726 Hotel All In One Near City Centre Salt Lake,DL-34 Karunamoyee Near Anandalok Hospital Bidhannagar Saltlake,1380,67% off,1178
+332,OYO G R Hospitality,"VIP Road Baguihati Kolkata Airport Near Ladies Hostel, Narayantala",820,69% off,1063
+333,SPOT ON Silver Green Near Netaji Subhash Chandra Bose International Airport,"Mondal Ganthi Road, Kaikhali, VIP Road Kolkata 700052, West Bengal",1006,67% off,823
+334,OYO A Retro Near Rdb Cinemas,"Near Tank N0.3, New Town, Rajarhat, Kolkata",1753,65% off,695
+335,Super OYO Townhouse 75779 The Royal Retreat,"Kolkata International Airport, Belghoria Express Way Noapara & Baranagar Metro Station",1050,69% off,725
+336,OYO Kuber Residency Near Birla Mandir,"Near Tagore Park, Kasba, Kolkata",1241,65% off,756
+337,Collection O Aafreen Tower Near St. Thomas's Church,"Esplanade, Kolkata",1136,68% off,914
+338,Flagship Hotel Shanavi Chinar Park,"29/2 Sayan Abasan, Nishi Kanan, Beside AR Motors, Chinar Park, Kolkata",1458,64% off,17
+339,Flagship Sonar Bangla Guest House Near Acropolis Mall,"Near G S T Bhawan, Kolkata",576,80% off,1094
+340,Flagship Royal Palace,"Near Acropolis Mall, Purba Abasan, Kolkata",1071,67% off,189
+341,OYO Diamond Plaza Near Acropolis Mall,"Kasbah Northnull, Kolkata",955,67% off,81
+342,Flagship Hotel New Aamaze Inn Near Acropolis Mall,"Near Vivanta Hotel, Kolkata",777,75% off,822
+343,Flagship Delightful Stay Em Byepass Near Birla Mandir,"Uttar Panchanna Gram, Kolkata",1023,64% off,1807
+344,Super OYO Hr Inn Near City Centre Salt Lake,"Bidhannagar, Kolkata",1256,67% off,31
+345,Super OYO SilverKey Deshapriya Park Near Kalighat Kali Temple,"Near EDEN GROUP BUILDING, Manoharpukur, Kolkata",576,80% off,828
+346,OYO Fantasy Stay Near City Centre Salt Lake,"Near Sector 1, Bidhan Nagar, Kolkata",820,69% off,733
+347,Collection O De Sivalika Boutique Near Dakshineswar Kali Temple,"Grand Trunk Road, Belur Math,Kolkata",1050,69% off,556
+348,Flagship Majestic Inn Near Bidhanagar Station,"South Dumdum, Kolkata",816,67% off,54
+349,Collection O Premium Hotel ,"1/B/24, AL BLOCK, STREET NO.22,NEW TOWN, RAJARHAT, KOLKATA",1345,65% off,667
+350,Flagship Diamond Regency Near Birla Mandir,"Near Acropolis Mall, Kolkata",688,72% off,1318
+351,Flagship Hotel Dreamline Near Acropolis Mall,"Near Sbi E-cornernullnull, Kolkata",611,72% off,1188
+352,Collection O Motisarai Near Birla Mandir,"Off Park Street, Kolkata",1164,67% off,65
+353,OYO Pinnacle Auberge,Chinar Park Kolkata International Airport Beside Spencers Rajarhat Main Road,1084,67% off,649
+354,Capital O Fortune Inn Near Birla Mandir,"Kasba, Kolkata",2185,65% off,674
+355,Capital O Kabita Guest House Near Acropolis Mall,Mukundapur Main Road Seven Maddox Square Multi cuisine Restaurant Kolkata EM Bye Pass Opposite Dr. Devi Shetty Hospital,2082,65% off,68
+356,OYO Townhouse 567 MB International,"Beniapukur, Kolkata",746,67% off,349
+357,Flagship Hotel Divira Inn,"New Town, Kolkata",949,71% off,637
+358,Super OYO Sagorika Inn,Chinarpark Amenia; Arsalan,549,86% off,497
+359,Capital O Hotel Gardenia Near Birla Mandir,"Near Laxminarayan Temple, Sarat Bose Road, Kolkata",1654,67% off,37
+360,Flagship Hotel Rockstar Near Birla Mandir,Kolkata Opposite Bangladesh High Commission) Near A.J.C Bose Flyover,1229,65% off,1165
+361,OYO Flagship Vicky Guest House Near City Centre Salt Lake,"Tcs Gitobitan, Kolkata",1458,64% off,117
+362,OYO Rooms 91148 Hotel Stay Inn,"Action Area I, Kolkata",1256,67% off,637
+363,Super OYO Townhouse 095 Akash Ganga Park Circus Near Birla Mandir,"Beniapukur, Kolkata",1030,67% off,1115
+364,Super OYO Trisha Guest House,"Behind New Life Nurshing Home, Oppssite Arati cinema, Sahabagan, Kolkata",1413,65% off,35
+365,Flagship Santoshi Banquet And Marriage Hall Near St. Thomas's Church,"Kulia, Kolkata",1339,67% off,489
+366,OYO Starlight Guest House Near Birla Mandir,"Shantipally Near Acropolis Mall, Kolkata",1636,65% off,51
+367,Super OYO Capital O 700752 Hotel Dak Plaza,"Near Axis Mall, CE Block, Newtown, Kolkata 700156",993,67% off,1299
+368,OYO Flagship 86727 New Diamond Palace,"Kolkata 700107, Kolkata",1334,72% off,94
+369,Collection O Hotel Paradise Near Chinar Park,"Kolkata West Bengal Kolkata, Kolkata",816,67% off,349
+370,OYO Hotel City Of Joy,"Salt Lake, Kolkata",2082,65% off,17
+371,OYO Red Velvet Classic Near Netaji Subhash Chandra Bose International Airport,Kaikhali Above IndusInd Bank ATM Kolkata International Airport 02 Hotel VIP Road,1084,67% off,394
+372,OYO Flagship Monurama Homestay Near Acropolis Mall,"Purba Diganta, Kolkata",2185,65% off,32
+373,OYO Green Leaf Hospitality Near City Centre Salt Lake,FD 390 SECTOR 3 SALT LAKE CENTRAL PARK MANI SQUARE CITY CENTRE 1,929,70% off,28
+374,Flagship Relax View Dumdum Park Near City Centre Salt Lake,"Dum Dum Park, Kolkata",1213,67% off,117
+375,"Super OYO 22566 Red Velvet Inn Near Chinar park,Airport","Near Chinar Park, Backside of NPG Hotel, Opposite Charnock Hospital",1156,67% off,35
+376,Capital O Krish Residency,"Near Action Area I, New Town Bus Stand DLF1, Kolkata, West Bengal",1023,64% off,674
+377,Collection O Avenue Inn Near VIP Road,"288/2 Bangur Avenue Block B, Near Bangur Swimming Pool Jessore Road Diamond Plaza Mall Nagerbazar ",1126,65% off,189
+378,Super OYO Flagship 89087 Brill Rooms Saltlake City Centre,"Saltlake, Kolkata",1426,65% off,235
+379,Super OYO Collection O The Coco Inn Near South City Mall,"Near 13C Bus Stand, Regent Estate, Kolkata",929,67% off,20
+380,Flagship Kalighat,"Near Raja Santosh Road, Alipore, Kolkata",1257,65% off,141
+381,Flagship R A Homestay Near Acropolis Mall,"Nitai Nagar, Kolkata",1323,68% off,34
+382,Collection O Hotel Paradise Near Chinar Park,"Kolkata West Bengal Kolkata, Kolkata",949,61% off,141
+383,OYO Flagship 812089 Laxmi Guest House Jadavpur,"46 Raja S.C.Mallick Road  Raja S.C Mallick Road, Kolkata",878,67% off,142
+384,Flagship Hotel Dreamline Near Acropolis Mall,"Near Sbi E-cornernullnull, Kolkata",3114,65% off,60
+385,OYO Padmavati Projects Pvt Ltd Near Netaji Subhash Chandra Bose International Airport,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment , Kolkata 700157",1474,68% off,474
+386,Collection O 811014 Hotel Wow,"SALT LAKE, Kolkata",1023,64% off,345
+387,Flagship Priyangshu Inn,"Madhurdaha, Kolkata",1188,65% off,1299
+388,Flagship Relax View Dumdum Park Near City Centre Salt Lake,"Dum Dum Park, Kolkata",1034,67% off,32
+389,Collection O Avenue Inn Near VIP Road,"288/2 Bangur Avenue Block B, Near Bangur Swimming Pool Jessore Road Diamond Plaza Mall Nagerbazar ",1339,65% off,19
+390,OYO Flagship 812161 Hotel Asha Inn,"BIDHANNAGAR, Kolkata",1041,65% off,397
+391,Super OYO Capital O 700752 Hotel Dak Plaza,"Near Axis Mall, CE Block, Newtown, Kolkata 700156",1463,64% off,165
+392,OYO Pinnacle Auberge,Chinar Park Kolkata International Airport Beside Spencers Rajarhat Main Road,1314,72% off,619
+393,OYO Maa Tara Guest House Near Acropolis Mall,"Near R.N.Tagore Hospital, Nitainagar, Kolkata",1680,65% off,125
+394,Flagship Hmb Guest House Near Salt Lake,"Sector II Salt lake water tank no 8, Kolkata",1660,64% off,7
+395,Flagship Hotel Red Rose Near Noapara Metro Station,"Dum Dum, Kolkata",1334,65% off,141
+396,OYO Townhouse 444 Heera Holiday Inn Near St. Thomas's Church,"51,Elliot Road Park Street Near Assembly Of God Church Adjacent 144668:1076985",1156,68% off,141
+397,Collection O Kyd Guest House Near Indian Museum,"700001, Kolkata",1698,65% off,34
+398,SPOT ON 812338 Om Palace Guest House,"Near Jalsaghar Netaji Nagar, Kolkata",2082,65% off,35
+399,OYO Ma Kali Guest House Near City Centre Salt Lake,"Near FD Block, Bidhannagar, Kolkata",1329,65% off,428
+400,OYO Flagship 90803 Sweet Grove,"Sector V, Kolkata",626,79% off,394
+401,OYO The Olive Near City Centre Salt Lake,"Near Bus Stand, Anandaloke Hospital, Cl Block, Kolkata",1308,65% off,621
+402,OYO Hotel Maruti Lodging,"Above Reliance Trends, Raghunathpur, Kolkata",599,82% off,158
+403,Flagship Kalighat,"Near Raja Santosh Road, Alipore, Kolkata",599,77% off,42
+404,Collection O 811014 Hotel Wow,"SALT LAKE, Kolkata",949,68% off,61
+405,OYO Flagship 805260 Saltlake Palace,"Salt Lakenull, Kolkata",1252,67% off,8
+406,Flagship Amaris Stay Hub Near Science City,"171D/1F/2, 49 Picnic Garden Road, VIP Bazar, Off EM Bypass, Near Science City",699,80% off,80
+407,Flagship Nayak Palace Inn Near Birla Mandir,"Ballygunge, Kolkata",1099,67% off,343
+408,OYO Hotel Nest Near St. Thomas's Church,"Near Bata More, Royd Street, Kolkata",1437,67% off,5
+409,OYO Flagship 76211 Honey Regency Near City Centre Salt Lake,"E C Block, Kolkata",850,67% off,334
+410,Collection O 81128 Enigma,"Ballygunge, Kolkata",1087,67% off,55
+411,OYO Flagship 812161 Hotel Asha Inn,"BIDHANNAGAR, Kolkata",729,67% off,195
+412,Collection O Kyd Guest House Near Indian Museum,"700001, Kolkata",925,67% off,209
+413,Flagship Hotel Red Rose Near Noapara Metro Station,"Dum Dum, Kolkata",815,67% off,74
+414,OYO Townhouse 444 Heera Holiday Inn Near St. Thomas's Church,"51,Elliot Road Park Street Near Assembly Of God Church Adjacent 144668:1076985",811,67% off,245
+415,Flagship Swastik Inn Near South City Mall,"Poddar Nagar, Kolkata",1441,67% off,260
+416,OYO Flagship 76629 Bimla Regency Near Noapara Metro Station,"Police Station, Dum Dum, Kolkata",929,67% off,604
+417,OYO Flagship 812443 MRS Inn,"Sector III, Kolkata",1199,57% off,3
+418,OYO Padmavati Projects Pvt Ltd Near Netaji Subhash Chandra Bose International Airport,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment , Kolkata 700157",,,6
+419,OYO Pallyshree Guest House,"Jyangra Sani Mandir, Baguiati Jora Mandir Chinar Park VIP Road Raghunathpur, Kolkata International Airport",,,7
+420,Oyo Townhouse 92944 Hotel Pan Asia International,"Jatin Das Road, Kolkata",,,144
+421,OYO Flagship Hotel The Buddha Fooding And Lodging,"Near Samabayika Behala, Kolkata",,,7398
+422,Super OYO Townhouse Hotel Vrindavan,"AA-027 Salt Lake Sector 1 1st Cross Road PNB Island Bus Stop Bidhannagar Ultadanga Kolkata 700064, West Bengal",,,7
+423,Collection O Rest In Near Saltlake,"Near Newtown Bus stand , Kolkata",,,127
+424,Flagship 78299 White Stone Hospitality,Aminia Restaurant Back Side Chinar Park Crossing Great Eastern Kolkata Airport,,,161
+425,Collection O 812085 Hotel 7dayz Inn Near City Centre 2,"West Bengal, Kolkata",,,69
+426,Collection O 812607 Hotel G.N Palace,"Bara Bazar, Kolkata",,,107
+427,Flagship Divya Jyoti Inn Near RDB Cinemas,"AI 87 Street No 23 Action Area 1 Newtown, Rajarhat",,,77
+428,OYO Flagship 70403 Chinar Inn,"Behind Shree Shree Bholanath Kali Temple, Kolkata",,,130
+429,OYO Hotel Padmavati Near Netaji Subhash Chandra Bose International Airport,"Biswa Bangla Sarani Behind Binany Building, Chinar Park, Beside NPG Hotel, Nibedita Apartment , Kolkata 700157",,,24
+430,OYO Flagship 81584 Hotel Swagatam,"Rajarhat, Kolkata",,,129
+431,Collection O 64870 Hotel Holiday Science City,SANJHA CHULHA RESTAURANT SCIENCE CITY EM BYE PASS,,,1
+432,OYO Comfort Stays,"Rajarhat, Kolkata",,,35
+433,Flagship Heritage Inn Near City Centre Salt Lake,"Salt Lake, Kolkata",,,22
+434,OYO Flagship 78267 City Inn,Avisar Spencer Kalikapur,,,16
+435,Collection O 76651 Dovers Inn,"Opp Gariahat Police Station, Kolkata",,,23
+436,Capital O Hotel Heritage Near VIP Road,"VIP Rd, Beside Spandhan Hospital, Raghunathpur, Tegharia Netaji International Airport, Rajarhat, Kolkata, West Bengal  700059",,,21
+437,Collection O Tulsi Palace,", Kolkata",,,53
+438,OYO Flagship 812166 Moon Regency ,"Sector 2, Kolkata",,,
+439,OYO Pratiksha Guest House Near City Centre Salt Lake,"Bangur Avenue Block B, Kolkata Kolkata West Bengal India 700055",,,
+440,Townhouse 1210 Brill Rooms Inn,"Action Area 1A, Kolkata",,,
+441,Collection o 82136 Elite Stay,AL283 Al block salt lake sector 2 KOLKATA.,,,
+442,OYO Flagship Trivedi Inn Near Ruby Hospital,"Kasba, Kolkata",,,
+443,Super OYO Flagship Mourigram Near Andul Rd,"Howrah, Kolkata",,,
+444,Flagship Sammy Hospitality,"Salt Lake, Kolkata",,,
+445,Flagship Ankita Guest House,"Near Gst Bhawan, Kolkata",,,
+446,OYO Karunamoyee Guest House Near City Centre Salt Lake,"Karunamoyee Bus Terminal, Bidhannagar, Kolkata",,,
+447,OYO Smriti Villa Residency,"Sector IIInull, Kolkata",,,
+448,OYO Sima Inn Guest House Near City Centre Salt Lake,"Near Near Salt Lake, Sector 2, Kolkata",,,
+449,Flagship Chinar Heavens Near Netaji Subhash Chandra Bose International Airport,"AS/267, KAIKHALI, CHINAR PARK, P.O. - AIRPORT, KOLKATA - 700052",,,
+450,Flagship Scholars Motel  guest House) Near St. Thomas's Church,"Esplanade, Kolkata",,,
+451,Flagship H B Guest House,"Near Ruby Hospital, Kolkata",,,
+452,OYO Smriti Villa Near City Centre Salt Lake,"GD-138, GD MARKET, Near NIH, Salt Lake",,,
+453,SPOT ON Swapna Guest House Near Birla Mandir,"1 No Hatgachia Dhapa Road Kolkata Behind Itc Sonar Bangla Hotel And Beside Milan Mela Prangan, Kolkata",,,
+454,Flagship 7 Div Guest House Near City Centre Salt Lake,"CK 109 Near Saltlake Sector 2, 9 No Water Tank  Karunamayee Bus Stop",,,
+455,Flagship New Silver Inn,"Near Tagore Park, Tijala, Kolkata",,,
+456,Flagship Tinker Bell Near Acropolis Mall,"Mukundapur, Kolkata",,,
+457,OYO Flagship Hotel Suleman Palace Near St. Thomas's Church,"Bux Lane, Kolkata",,,
+458,Flagship Rakhakali Guest House Fooding And Loding,"near Shalimar station ticket counter , Kolkata",,,
+459,Flagship Kajali Guest House Near Birla Mandir,"Near Bosepukur, Kasba, Kolkata",,,
